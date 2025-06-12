@@ -9,15 +9,15 @@
 - 🔭 Je travaille actuellement sur **FrontWave**, une application de portefeuille mobile avec React & Node.js
 - 🌱 J’apprends et j’approfondis : React, Tailwind, Node.js, MongoDB
 - 💡 J’aime construire des interfaces fluides et des expériences utilisateurs simples
-- 📫 Contact : [yann.hallage@example.com](mailto:contact.devhllg@gmail.com)
+- 📫 Contact : [contact.devhllg@gmail.com](mailto:contact.devhllg@gmail.com)
 
 ---
 
 ## 🛠️ Stack technique
 
-- **Frontend** : React, Tailwind CSS, Framer Motion, javaFx
+- **Frontend** : Typescript,React, Tailwind CSS, Framer Motion, javaFx
 - **Backend** : Node.js, Express, MongoDB, java
-- **Outils** : Git, GitHub, VS Code, Postman, Figma
+- **Outils** : Git, GitHub, VS Code, Postman, Figma, docker, vercel
 
 ---
 
