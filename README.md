@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est Yann Hallage !
+# 👋 Salut, moi c'est Yann Hallage je met (je mettrai a jour plus tard)!
 
 🎓 Étudiant passionné par le **développement web**, les **interfaces utilisateur modernes** et les **applications mobiles**.
 
