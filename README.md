@@ -1,46 +1,57 @@
-# 👋 Salut, moi c'est Yann Hallage je met (je mettrai a jour plus tard)!
+# 👋 Salut, moi c’est Yann Hallage
 
-🎓 Étudiant passionné par le **développement web**, les **interfaces utilisateur modernes** et les **applications mobiles**.
+🎓 Étudiant en informatique passionné par le **développement full stack** et les **systèmes interactifs en temps réel**.  
+Je construis des applications web et mobiles modernes tout en explorant les coulisses des protocoles réseaux et des architectures backend performantes.
 
 ---
 
-## 💡 À propos de moi
+## 💡 Qui suis-je ?
 
-- 🔭 Je travaille actuellement sur **FrontWave**, une application de portefeuille mobile avec React & Node.js
-- 🌱 J’apprends et j’approfondis : React, Tailwind, Node.js, MongoDB
-- 💡 J’aime construire des interfaces fluides et des expériences utilisateurs simples
-- 📫 Contact : [contact.devhllg@gmail.com](mailto:contact.devhllg@gmail.com)
+- 🔧 Je conçois des applications complètes, du **backend Node.js** à l’**interface utilisateur React/Tailwind**
+- ⏱️ Je m'intéresse particulièrement aux **protocoles temps réel** (Socket.IO, MQTT...) et aux **communications entre systèmes**
+- 📱 Je développe des interfaces fluides, accessibles et orientées utilisateur
+- 🔍 Toujours curieux d’en apprendre plus sur la **scalabilité**, les **API REST** et les **outils DevOps**
+
+---
+
+## 🔥 Projets en cours
+
+- 💸 **FrontWave** – Une application de gestion d’argent entre amis (React, Tailwind, Node.js, MongoDB)  
+  [🔗 Voir le repo](https://github.com/yannhallage/frontwave)
+
+- 🚧 D'autres projets arrivent très bientôt...
 
 ---
 
 ## 🛠️ Stack technique
 
-- **Frontend** : Typescript,React, Tailwind CSS, Framer Motion, javaFx
-- **Backend** : Node.js, Express, java
-- **Database** : MongoDB, Postgre, Mysql
-- **Outils** : Git, GitHub, VS Code, Postman, Figma, docker, vercel
+**Frontend :**  
+React, TypeScript, Tailwind CSS, Framer Motion, JavaFX
+
+**Backend :**  
+Node.js, Express, Java, protocoles réseaux (temps réel)
+
+**Base de données :**  
+MongoDB, PostgreSQL, MySQL
+
+**Outils & DevOps :**  
+Git, GitHub, VS Code, Docker, Postman, Vercel, Figma
 
 ---
 
-## 📊 Statistiques GitHub
+## 📈 GitHub Stats
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=yannhallage&show_icons=true&theme=radical)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=yannhallage&show_icons=true&theme=radical)  
 ![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=yannhallage&layout=compact&theme=radical)
 
 ---
 
-## 🚀 Projets récents
+## 🌐 Me retrouver
 
-- 🔗 [FrontWave – Application de gestion d’argent](https://github.com/yannhallage/frontwave)
-- 🧪 [Autres projets à venir...]
-
----
-
-## 🌐 Me retrouver ailleurs
-
-[💼 LinkedIn (optionnel)](https://linkedin.com/in/yannhallage) • [🌍 Portfolio (si tu en as un)](https://yannhallage.dev)
+- 📫 [contact.devhllg@gmail.com](mailto:contact.devhllg@gmail.com)
+- 💼 [LinkedIn (optionnel)](https://linkedin.com/in/yannhallage)
+- 🌍 [Portfolio (à venir)](https://yannhallage.dev)
 
 ---
 
-_✨ Ce profil est mis à jour manuellement par Yann Hallage – dernière mise à jour : 2025_
-
+_✨ Profil mis à jour manuellement par Yann Hallage – dernière mise à jour : 2025_
