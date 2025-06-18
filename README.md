@@ -16,7 +16,8 @@
 ## 🛠️ Stack technique
 
 - **Frontend** : Typescript,React, Tailwind CSS, Framer Motion, javaFx
-- **Backend** : Node.js, Express, MongoDB, java
+- **Backend** : Node.js, Express, java
+- **Database** : MongoDB, Postgre, Mysql
 - **Outils** : Git, GitHub, VS Code, Postman, Figma, docker, vercel
 
 ---
