@@ -72,7 +72,7 @@ Je construis des applications web et mobiles modernes tout en explorant les coul
 
 - 📫 [contact.devhllg@gmail.com](mailto:contact.devhllg@gmail.com)
 - 💼 [LinkedIn (optionnel)](https://linkedin.com/in/yannhallage)
-- 🌍 [Portfolio (à venir)](https://yannhallage.dev)
+- 🌍 [Portfolio ](https://yannhallage.netlify.app/)
 
 ---
 
