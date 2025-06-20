@@ -8,7 +8,7 @@ Je construis des applications web et mobiles modernes tout en explorant les coul
 ## 💡 Qui suis-je ?
 
 - 🔧 Je conçois des applications complètes, du **backend Node.js** à l’**interface utilisateur React/Tailwind**
-- ⏱️ Je m'intéresse particulièrement aux **protocoles temps réel** (Socket.IO, MQTT...) et aux **communications entre systèmes**
+- ⏱️ Je m'intéresse particulièrement aux **protocoles temps réel** (Socket.IO, MQTT...) et aux **communications entre système**
 - 📱 Je développe des interfaces fluides, accessibles et orientées utilisateur
 - 🔍 Toujours curieux d’en apprendre plus sur la **scalabilité**, les **API REST** et les **outils DevOps**
 
