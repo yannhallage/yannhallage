@@ -16,7 +16,7 @@ Je construis des applications web et mobiles modernes tout en explorant les coul
 
 ## 🔥 Projets en cours
 
-- 💸 **FrontWave** – Une application de gestion d’argent entre amis (React, Tailwind, Node.js, MongoDB)  
+- 💸 **FrontWave** – Une application de gestion d’argent entre amis (React, Tailwind, Node.js, MongoDB)  .
   [🔗 Voir le repo](https://github.com/yannhallage/frontwave)
 
 - 🚧 D'autres projets arrivent très bientôt...
