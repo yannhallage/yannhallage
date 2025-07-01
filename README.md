@@ -59,7 +59,7 @@ Je construis des applications web et mobiles modernes tout en explorant les coul
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
 
 
-----------------
+---
 
 ## 📈 GitHub Stats
 
