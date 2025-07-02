@@ -3,7 +3,7 @@
 🎓 Étudiant en informatique passionné par le **développement full stack** et les **systèmes interactifs en temps réel**.  
 Je construis des applications web et mobiles modernes tout en explorant les coulisses des protocoles réseaux et des architectures backend performantes.
 
---------------
+--------------        
 
 ## 💡 Qui suis-je ?
 
