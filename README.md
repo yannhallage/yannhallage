@@ -3,24 +3,6 @@
 🎓 Étudiant en informatique passionné par le **développement full stack** et les **systèmes interactifs en temps réel**.  
 Je construis des applications web et mobiles modernes tout en explorant les coulisses des protocoles réseaux et des architectures backend performantes.
 
---------------        
-
-## 💡 Qui suis-je ?
-
-- 🔧 Je conçois des applications complètes, du **backend Node.js** à l’**interface utilisateur React/Tailwind**
-- ⏱️ Je m'intéresse particulièrement aux **protocoles temps réel** (Socket.IO, MQTT...) et aux **communications entre système**
-- 📱 Je développe des interfaces fluides, accessibles et orientées utilisateur
-- 🔍 Toujours curieux d’en apprendre plus sur la **scalabilité**, les **API REST** et les **outils DevOps**
-
----
-
-## 🔥 Projets en cours
-
-- 💸 **FrontWave** – Une application de gestion d’argent entre amis (React, Tailwind, Node.js, MongoDB)  .
-  [🔗 Voir le repo](https://github.com/yannhallage/frontwave)
-
-- 🚧 D'autres projets arrivent très bientôt.
-
 ---
 
 ## 🛠️ Stack technique
