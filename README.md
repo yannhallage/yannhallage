@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est Yann Hallage
+# 👋 c’est Yann Hallage
 
 Développement informatique, conception Full Stack, architecture logicielle, cloud et protocoles temps réel. 
 J’aime comprendre en profondeur, concevoir et optimiser l’ensemble d’un système
