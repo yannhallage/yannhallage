@@ -3,7 +3,7 @@
 Développement informatique, conception Full Stack, architecture logicielle, cloud et protocoles temps réel. 
 J’aime comprendre en profondeur, concevoir et optimiser l’ensemble d’un système
 
----
+---------
 
 ## 🛠️ Stack technique
 
