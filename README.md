@@ -1,43 +1,55 @@
-# 👋 Bonjour, je suis Yann Hallage
+````markdown name=README.md url=https://github.com/yannhallage/yannhallage/blob/8c22d4c02df722b58a41c017350a3ff4a9ff81ec/README.md
+# 👋 Bonjour — Yann Hallage
 
-Développement informatique, conception Full Stack, architecture logicielle, cloud et protocoles temps réel. 
+Ingénieur logiciel Full Stack | Architecture logicielle | Cloud & temps réel
 
-J'aime comprendre en profondeur, concevoir et optimiser l'ensemble d'un système.
+Je conçois et développe des systèmes fiables, performants et maintenables. J'aime creuser le cœur des problèmes techniques pour proposer des solutions pragmatiques, scalables et bien documentées.
 
 ---
 
-## 🛠️ Stack technique
+## 🎯 Ce que je fais — en quelques mots
 
-### 🖥️ Frontend
+- Conception d'architectures back-end évolutives (API, microservices, event-driven)
+- Développement Frontend moderne, accessible et performant
+- Intégration de systèmes temps réel (WebSocket, Socket.IO)
+- Déploiement et automatisation (Docker, CI/CD, cloud)
+- Tests, observabilité et optimisation des performances
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+---
 
-### 🧠 Backend
+## 🛠️ Stack technique (sélection)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+Frontend
+- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-### 🗃️ Base de données
+Backend & temps réel
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+- ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+- ![Socket.IO](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+Bases de données
+- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ⚙️ Outils & DevOps
+Outils & DevOps
+- ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+- ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+- VSCode, Postman, Figma
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+---
+
+## 📂 Projets & contributions
+
+Pour explorer mes projets, démos et contributions open-source :  
+https://github.com/yannhallage
+
+Chaque dépôt contient un README dédié expliquant le contexte, la stack, les instructions d'exécution et les choix d'architecture.
 
 ---
 
@@ -55,16 +67,19 @@ J'aime comprendre en profondeur, concevoir et optimiser l'ensemble d'un système
 
 ---
 
-## 🌐 Me retrouver
+## 📬 Me contacter
 
-- 📫 **Email** : [contact.devhllg@gmail.com](mailto:contact.devhllg@gmail.com)
-- 💼 **LinkedIn** : [linkedin.com/in/yannhallage](https://linkedin.com/in/yannhallage)
-- 🌍 **Portfolio** : [yannhallage.netlify.app](https://yannhallage.netlify.app/)
+- Email : [contact.devhllg@gmail.com](mailto:contact.devhllg@gmail.com)  
+- LinkedIn : https://linkedin.com/in/yannhallage  
+- Portfolio : https://yannhallage.netlify.app
 
 ---
 
-<div align="center">
+Merci de votre visite — si vous souhaitez collaborer sur un projet ou avez une question technique, n'hésitez pas à me contacter.
 
-✨ **Profil mis à jour par Yann Hallage** – Dernière mise à jour : 2025
+<div align="center">
+  
+Dernière mise à jour : 2025-11-18
 
 </div>
+````
