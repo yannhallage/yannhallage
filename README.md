@@ -4,7 +4,7 @@ Développement informatique, conception Full Stack, architecture logicielle, clo
 
 J'aime comprendre en profondeur, concevoir et optimiser l'ensemble d'un système.
 
----
+-----------------------------------------------
 
 ## 🛠️ Stack technique
 
