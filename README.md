@@ -4,6 +4,12 @@ Développement informatique, conception Full Stack, architecture logicielle, clo
 
 J'aime comprendre en profondeur, concevoir et optimiser l'ensemble d'un système.
 
+## 🧩 Compléments
+
+- **Ce que je construis** : applications web temps réel, APIs robustes, UIs fluides et accessibles.
+- **Ce que j’aime optimiser** : performance, DX (outillage/CI), qualité (tests), scalabilité et coûts cloud.
+- **Ma façon de travailler** : conception pragmatique, itérations courtes, feedback rapide, code lisible et documenté quand c’est utile.
+
 -----------------------------------------------
 
 ## 🛠️ Stack technique
