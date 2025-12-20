@@ -4,6 +4,12 @@ Développement informatique, conception Full Stack, architecture logicielle, clo
 
 J'aime comprendre en profondeur, concevoir et optimiser l'ensemble d'un système.
 
+## 🧩 Compléments
+
+- **Objectif** : livrer des produits simples à utiliser, fiables en prod, faciles à faire évoluer.
+- **J’interviens** : du cadrage/architecture à l’implémentation (frontend, backend), jusqu’au déploiement.
+- **Priorités** : performance, qualité (tests), observabilité, CI/CD, et bonnes pratiques de sécurité.
+
 -----------------------------------------------
 
 ## 🛠️ Stack technique
