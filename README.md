@@ -6,9 +6,9 @@ J'aime comprendre en profondeur, concevoir et optimiser l'ensemble d'un système
 
 ## 🧩 Compléments
 
-- **Ce que je construis** : applications web temps réel, APIs robustes, UIs fluides et accessibles.
-- **Ce que j’aime optimiser** : performance, DX (outillage/CI), qualité (tests), scalabilité et coûts cloud.
-- **Ma façon de travailler** : conception pragmatique, itérations courtes, feedback rapide, code lisible et documenté quand c’est utile.
+- **Objectif** : livrer des produits simples à utiliser, fiables en prod, faciles à faire évoluer.
+- **J’interviens** : du cadrage/architecture à l’implémentation (frontend, backend), jusqu’au déploiement.
+- **Priorités** : performance, qualité (tests), observabilité, CI/CD, et bonnes pratiques de sécurité.
 
 -----------------------------------------------
 
