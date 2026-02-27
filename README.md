@@ -10,7 +10,7 @@
 
 Je suis un développeur informatique avec une passion pour l'innovation technologique. J'aime résoudre des problèmes complexes et créer des solutions efficaces. Toujours en quête d'apprentissage, je maîtrise plusieurs langages et frameworks pour livrer des produits de qualité.
 
----
+----
 
 ## 🛠️ Stack Technique
 
