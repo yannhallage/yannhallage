@@ -33,7 +33,7 @@ Je suis un développeur informatique avec une passion pour l'innovation technolo
     </tr>
   </table>
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yannhallage&theme=github-compact" alt="Graphique d'activité"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TON_USERNAME&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
