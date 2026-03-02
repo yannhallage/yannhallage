@@ -26,14 +26,21 @@ Je suis un développeur informatique avec une passion pour l'innovation technolo
 ## 📈 Statistiques GitHub
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=yannhallage&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Stats GitHub"/></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yannhallage&layout=compact&theme=dark&hide_border=true" alt="Langages utilisés"/></td>
-    </tr>
-  </table>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TON_USERNAME&theme=tokyonight&hide_border=true"/>
+
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=yannhallage&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+       alt="GitHub Stats" />
+
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=yannhallage&layout=compact&theme=tokyonight&hide_border=true"
+       alt="Top Languages" />
+
+  <br><br>
+
+  <img height="180em"
+       src="https://streak-stats.demolab.com?user=yannhallage&theme=tokyonight&hide_border=true"
+       alt="GitHub Streak" />
+
 </div>
 
 ---
