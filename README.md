@@ -23,23 +23,19 @@ Je suis un développeur informatique avec une passion pour l'innovation technolo
 
 ---
 
-## 📈 Statistiques GitHub
+## 📈 GitHub Activity Graph
 
 <div align="center">
 
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=yannhallage&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-       alt="GitHub Stats" />
-
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=yannhallage&layout=compact&theme=tokyonight&hide_border=true"
-       alt="Top Languages" />
+  <img width="95%"
+       src="https://github-readme-activity-graph.vercel.app/graph?username=yannhallage&theme=tokyo-night&hide_border=true"
+       alt="GitHub Activity Graph"/>
 
   <br><br>
 
-  <img height="180em"
+  <img width="70%"
        src="https://streak-stats.demolab.com?user=yannhallage&theme=tokyonight&hide_border=true"
-       alt="GitHub Streak" />
+       alt="GitHub Streak"/>
 
 </div>
 
