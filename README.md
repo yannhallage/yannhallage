@@ -1,68 +1,94 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="400"/>
-  <h1>👨‍💻 Yann Hallage - Développeur Informatique</h1>
-  <p>Passionné par le développement informatique, je conçois des applications full-stack, optimise l'architecture logicielle et explore le cloud ainsi que les protocoles temps réel...</p>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400"/>
+
+  # 👨‍💻 Yann Hallage
+  ### Développeur Full Stack
+
+  Passionné par le développement informatique, je conçois des applications modernes,
+  j’optimise l’architecture logicielle et j’explore les technologies cloud et temps réel.
 </div>
 
 ---
 
-## 🚀 À propos de moi
+# 🚀 À propos de moi
 
-Je suis un développeur informatique avec une passion pour l'innovation technologique. J'aime résoudre des problèmes complexes et créer des solutions efficaces. Toujours en quête d'apprentissage, je maîtrise plusieurs langages et frameworks pour livrer des produits de qualité.
+💻 Développeur Full Stack  
+⚡ Passionné par l’architecture logicielle  
+☁️ Exploration du Cloud et DevOps  
+🚀 Création d’applications performantes et scalables  
 
-----
+---
 
-## 🛠️ Stack Technique
+# 🛠️ Stack Technique
 
 | Catégorie | Technologies |
 |-----------|--------------|
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=flat&logo=openjdk&logoColor=white)
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
-| **Bases de Données** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white) ![Neon](https://img.shields.io/badge/Neon-00E599?style=flat&logo=neon&logoColor=white)
-| **DevOps & Outils** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) |
+| **Frontend** | React • Angular • TypeScript • Tailwind CSS • Framer Motion |
+| **Backend** | Node.js • NestJS • Express • Spring Boot • Socket.IO |
+| **Base de données** | MongoDB • PostgreSQL • MySQL • Supabase • Neon |
+| **DevOps & Outils** | Git • GitHub • Docker • Postman • VSCode • Figma • Vercel |
 
 ---
 
-## 📈 GitHub Activity Graph
+# 📊 GitHub Stats
 
 <div align="center">
 
-  <img width="95%"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=yannhallage&theme=tokyo-night&hide_border=true"
-       alt="GitHub Activity Graph"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=yannhallage&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <br><br>
-
-  <img width="70%"
-       src="https://streak-stats.demolab.com?user=yannhallage&theme=tokyonight&hide_border=true"
-       alt="GitHub Streak"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yannhallage&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🌟 Projets Phares
+# 📈 GitHub Activity Graph
 
-- **[Projet 1](lien)** : Description brève.
-- **[Projet 2](lien)** : Description brève.
-- **[Projet 3](lien)** : Description brève.
+<div align="center">
 
-*(Remplacez par vos vrais projets !)*
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=yannhallage&theme=tokyo-night&hide_border=true"/>
+
+<br>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=yannhallage&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-## 📬 Contactez-moi
+# 🌟 Projets Phares
+
+### 🚀 Acredi
+Moteur de simulation de prix pour agences permettant de calculer les marges et rentabilités des projets.
+
+### 💳 Nuum API
+Backend de gestion de paiements et abonnements avec CinetPay.
+
+### 📦 IT Stock API
+API de gestion d'inventaire pour matériel informatique.
+
+---
+
+# 📬 Contact
 
 <div align="center">
-  <a href="mailto:contact.devhllg@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://linkedin.com/in/yannhallage"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://yannhallage.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.devhllg@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yannhallage)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://yannhallage.netlify.app)
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Citation aléatoire"/>
-  <br><br>
-  <i>Merci d'avoir visité mon profil ! 🌟</i>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+<br>
+
+⭐ Merci d'avoir visité mon profil !
+
 </div>
