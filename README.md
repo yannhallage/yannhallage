@@ -33,15 +33,11 @@
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  <!-- Stats principales -->
-  <img width="48%" 
-       src="https://github-readme-stats.vercel.app/api?username=yannhallage&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-       alt="Stats GitHub"/>
-
-  <!-- Langages principaux -->
-  <img width="48%" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=yannhallage&layout=compact&theme=tokyonight&hide_border=true" 
-       alt="Langages"/>
+  <img src="profile-summary-card-output/0-profile-details.svg" width="95%" alt="Détails du profil"/>
+  <img src="profile-summary-card-output/1-repos-per-language.svg" width="48%" alt="Langages"/>
+  <img src="profile-summary-card-output/2-most-commit-language.svg" width="48%" alt="Langages les plus utilisés"/>
+  <img src="profile-summary-card-output/3-stats.svg" width="48%" alt="Stats"/>
+  <img src="profile-summary-card-output/4-productive-time.svg" width="48%" alt="Temps productif"/>
 </div>
 
 
