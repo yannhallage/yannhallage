@@ -41,12 +41,6 @@ Je suis un développeur informatique avec une passion pour l'innovation technolo
 </div>
 
 ---
-## 🌟 Projets Phares
-
-![GitHub stars](https://img.shields.io/github/stars/yannhallage/nuum-rest-api?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yannhallage/nuum-rest-api?style=social)
-
----
 
 ## 📬 Contactez-moi
 
