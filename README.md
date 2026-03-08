@@ -43,14 +43,8 @@ Je suis un développeur informatique avec une passion pour l'innovation technolo
 ---
 ## 🌟 Projets Phares
 
-- **[Nuum REST API](https://github.com/yannhallage/nuum-rest-api)**  
-  API backend construite avec **NestJS, Prisma et Supabase** pour gérer paiements, abonnements et facturation.
-
-- **[Acredi](https://github.com/yannhallage/acredi)**  
-  Application de **simulation de pricing pour agences** avec React, TypeScript et Supabase permettant d’analyser la rentabilité des projets.
-
-- **[IT Stock API](https://github.com/yannhallage/it-stock-api)**  
-  API REST pour la gestion de stock informatique avec **Node.js, Express et PostgreSQL**.
+![GitHub stars](https://img.shields.io/github/stars/yannhallage/nuum-rest-api?style=social)
+![GitHub forks](https://img.shields.io/github/forks/yannhallage/nuum-rest-api?style=social)
 
 ---
 
