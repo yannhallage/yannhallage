@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="400"/>
   <h1>👨‍💻 Yann Hallage - Développeur Informatique</h1>
-  <p>Passionné par le développement informatique, je conçois des applications full-stack, optimise l'architecture logicielle et explore le cloud ainsi que les protocoles temps réel.</p>
+  <p>Passionné par le développement informatique, je conçois des applications full-stack, optimise l'architecture logicielle et explore le cloud ainsi que les protocoles temps réel...</p>
 </div>
 
 ---
