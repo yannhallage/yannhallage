@@ -4,7 +4,7 @@
   <p>Passionate about software development, I design full-stack applications, optimize software architecture, and explore cloud technologies as well as real-time protocols.</p>
 </div>
 
----
+----
 
 ## 🚀 About Me
 
