@@ -1,4 +1,4 @@
-> ⚡ I don’t just build things — I break systems, understand them, and find ways to fix them.
+> ⚡ something like that !
 
 <div align="center">
   <img src="https://wallpapers-clan.com/wp-content/uploads/2022/08/funny-dog-pfp-6.jpg" alt="Debug Mode Activated" width="280"/>
