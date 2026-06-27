@@ -1,7 +1,7 @@
 > ⚡ something like that !
 
 <div align="center">
-  <img src="https://i.imgflip.com/8ovhp8.jpg" alt="Debug Mode Activated" width="480"/>
+  <img src="https://i.imgflip.com/8ovhp8.jpg" alt="Debug Mode Activated" width="280"/>
   <br><br>
   <!-- <i>finding ways to fix them....</i> -->
 </div>
